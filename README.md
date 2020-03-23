@@ -1,5 +1,5 @@
 # StopWatch
-```Simple Layout StopWatch Uisng Android Studio```
+```Simple Layout StopWatch Using Android Studio```
 
 **To setup the project on your local machine:**
 
